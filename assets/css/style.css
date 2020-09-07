@@ -9,6 +9,14 @@
 .LastKo{
 margin-bottom: 10%;
 }
+/*Email and Numberrrrrrrrrrrrrrrrrrrrrrrrrrrrr */
+.Text{
+    text-decoration: none;
+    color: #ff4b5c;
+    padding: 20px;
+    margin: 10px;
+    font-weight: bold;
+}
 /* FONT
 ================================================== */
 @font-face {
@@ -86,7 +94,7 @@ h4 {
 
 .btn-fill {
     color: #fff;
-    background-color: #212121;
+    background-color: #66bfbf;
 }
 
 .btn-border {
@@ -102,7 +110,7 @@ h4 {
 
 .btn:hover,
 .btn:focus {
-    box-shadow: 0px 10px 18px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 10px 18px 0px rgba(0, 0, 0, 0.5);
 }
 
 /* Input fields */
